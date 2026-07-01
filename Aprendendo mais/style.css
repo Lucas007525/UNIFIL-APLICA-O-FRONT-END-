@@ -1,0 +1,32 @@
+.quadrado {
+    width: 250px;
+    height: 250px; 
+}
+
+.verde {
+    background-color: green;
+}
+
+.amarelo {
+    background-color: yellow;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.vermelho {
+    background-color: red;
+}
+
+.roxo {
+    background-color: purple;
+}
+
+.Pai {
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
